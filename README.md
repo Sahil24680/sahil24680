@@ -3,7 +3,7 @@
 ## 🧠 About Me:
 - 🎓 CS student @ Hunter College | Minor in Math  
 - 💼 Currently working at **Circle Health AI**, contributing to software that enhances clinician workflows  
-- 🧠 Previously built @ **Gray Matter**, where I developed the web version of an AI mobile assistant  
+- 🧠 Previously led development of the web version of **Recap.ai** at **Gray Matter**, a fast-paced startup building an AI-powered assistant for summarizing meetings, lectures, and podcasts
 - ⚙️ Created **CVReady.ai**, a resume analysis tool that gives structured feedback to help users break into Big Tech  
 - 💡 I’m passionate about full-stack development, AI integration, and team-driven innovation  
 - 🤝 I get extra motivated when collaborating — I love teaching, learning, and building together  
@@ -11,7 +11,6 @@
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sahil24680)
 
 ## 🛠 Tech Stack:
 
