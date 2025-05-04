@@ -3,7 +3,7 @@
 ## 🧠 About Me:
 - 🎓 CS student @ Hunter College | Minor in Math  
 - 💼 Currently working at **Circle Health AI**, contributing to software that enhances clinician workflows  
-- 🧠 Previously led development of the web version of **Recap.ai** at **Gray Matter**, a fast-paced startup building an AI-powered assistant for summarizing meetings, lectures, and podcasts
+- 🧠 Previously led development of the web version of an AI-powered mobile assistant called **Recap.ai** at **Gray Matter**, a fast-paced startup focused on summarizing meetings, lectures, and podcasts  
 - ⚙️ Created **CVReady.ai**, a resume analysis tool that gives structured feedback to help users break into Big Tech  
 - 💡 I’m passionate about full-stack development, AI integration, and team-driven innovation  
 - 🤝 I get extra motivated when collaborating — I love teaching, learning, and building together  
@@ -11,6 +11,7 @@
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sahil24680)
 
 ## 🛠 Tech Stack:
 
@@ -28,8 +29,11 @@
 ![DRF](https://img.shields.io/badge/DRF-red?style=for-the-badge)
 ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 
 ### Cloud & DevOps  
 ![AWS EC2](https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
@@ -45,7 +49,7 @@
 
 ## 📌 Featured Projects
 
-### 📄 [CVReady.ai](https://github.com/Sahil24680)
+### 🧠 CVReady.ai  
 AI-powered resume parser that gives tailored feedback to help users land Big Tech jobs. Tracks user progress and offers actionable insights using OpenAI APIs.
 
 ### 📬 Mail Men  
