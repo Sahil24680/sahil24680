@@ -4,7 +4,7 @@
 - 🎓 CS student @ Hunter College | Minor in Math  
 - 💼 Currently working at **Circle Health AI**, contributing to software that enhances clinician workflows  
 - 🧠 Previously led development of the web version of an AI-powered mobile assistant called **Recap.ai** at **Gray Matter**, a fast-paced startup focused on summarizing meetings, lectures, and podcasts  
-- ⚙️ Created **CVReady.ai**, a resume analysis tool that gives structured feedback to help users break into Big Tech  
+- ⚙️ Created CVReady.ai, an AI-driven resume analysis and interview prep platform that provides structured feedback and includes a behavioral interview bot to help users practice for Big Tech interviews
 - 💡 I’m passionate about full-stack development, AI integration, and team-driven innovation  
 - 🤝 I get extra motivated when collaborating — I love teaching, learning, and building together  
 - 🚀 My long-term goal is to join Big Tech and eventually start my own tech company
