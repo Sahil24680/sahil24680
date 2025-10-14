@@ -48,14 +48,11 @@
 
 ## 📌 Featured Projects
 
-### 🧠 CVReady.ai  
-AI-powered resume parser that gives tailored feedback to help users land Big Tech jobs. Tracks user progress and offers actionable insights using OpenAI APIs.
+### 💼 CVReady.ai — AI-powered resume parser that delivers role-specific, actionable feedback to help users land Big Tech jobs. Uses RAG pipelines for contextual accuracy and features an Interview Bot that trains users for behavioral interviews by analyzing responses and providing personalized improvement feedback.
 
-### 📬 Mail Men  
-Gmail-style full-featured email app built with Django & DRF, includes login, email CRUD, archiving, starring, profile uploads, and AWS deployment.
+### ⚙️ DailyTech — Multi-agent AI journalist that autonomously researches, writes, and edits verified technology articles using a dynamic SupervisorGraph for adaptive, context-aware orchestration.
 
-### 🧠 Card Flash  
-Flashcard app built with React Native + Expo. Features Google Auth, real-time sync with Supabase, and responsive performance across devices.
+### 🔍 Job Busters — Group project that developed a prototype scoring system to detect likely “ghost job” postings, generating a 0–100 composite risk index using signals like compensation integrity, posting cadence, metadata consistency, cross-site validation, and NLP-based job description analysis.
 
 ---
 
