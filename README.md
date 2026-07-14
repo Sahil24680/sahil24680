@@ -72,14 +72,6 @@ Dynamic multi-agent system that autonomously researches, writes, and edits techn
 ### 🔍 Job Busters — Ghost-Job Risk Scoring
 Prototype scoring system that flags likely "ghost job" postings, producing a 0–100 composite risk index from compensation integrity, posting cadence, metadata consistency, cross-site validation, and NLP-based description analysis.
 
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" alt="stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" alt="streak" />
-</p>
 
 ---
 
